@@ -9,10 +9,17 @@
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/licença-MIT-lightgrey?style=for-the-badge)
 
-<!-- Substitua pelo seu GIF ou print do jogo rodando -->
-<!-- ![Demonstração do jogo](docs/demo.gif) -->
+<br/>
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="docs/gameplay.gif" alt="Jogo em Execução" width="250px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/gameover.png" alt="Tela de Game Over" width="252px"/>
 </div>
+
+
 
 ---
 
@@ -74,6 +81,9 @@ java App
 
 ```
 .
+|── docs/
+|   ├── gameplay.gif          # GIF do jogo em execução
+|   ├── gameover.png          # Print da tela de game over
 ├── src/
 │   ├── App.java            # Ponto de entrada: cria e configura a janela
 │   ├── FlappyBird.java     # Lógica do jogo, desenho e controles
