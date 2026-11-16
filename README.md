@@ -10,7 +10,7 @@
 ![Licença](https://img.shields.io/badge/licença-MIT-lightgrey?style=for-the-badge)
 
 <br/>
-
+</div>
 ## 📸 Screenshots
 
 <div align="center">
@@ -83,7 +83,7 @@ java App
 .
 |── docs/
 |   ├── gameplay.gif          # GIF do jogo em execução
-|   ├── gameover.png          # Print da tela de game over
+|   ├──gameover.png          # Print da tela de game over
 ├── src/
 │   ├── App.java            # Ponto de entrada: cria e configura a janela
 │   ├── FlappyBird.java     # Lógica do jogo, desenho e controles
